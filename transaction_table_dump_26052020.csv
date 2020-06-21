@@ -1,0 +1,7 @@
+flatno,billReceipt,startDate,EndDate,totalNumMonthsCharge,totalMaintenanceCharge,modeofPayment,chequeOrTransactionId,bankName,ifscCode,accNo,accHolderName,paymentStatus,printReceiptGeneratedStatus
+A09,A09001,25/04/2020,25/05/2020,1,2800,cheque,2345678900987654,SBI,SBIN6789,234567890098765432345678,Nihar,Completed,1
+B01,B01002,26/05/2020,26/06/2020,1,8700,cheque,34567890fghjk,Yes,56789,234567890987654321,Sumitra,Completed,1
+D02,D02001,26/04/2020,26/06/2020,2,9600,cheque,dfgh567890,AXIS,bn567,3456789876543,GUDLI,Completed,1
+G22,G22001,25/04/2020,25/06/2020,2,8600,cheque,ertyuj3456789,IOB,IOBN6789,34567890098765432345678,Sumitra,Completed,1
+A09,A09002,25/05/2020,25/08/2020,3,8400,cheque,kjhgfdsa7654321`,central,56789,456789098765432,Nihar,Verified,NULL
+B01,B01001,26/04/2020,26/05/2020,1,8700,internetBanking,sdfghjk456789,Axiz,UTIN875,234567890987654321,Sumitra,Completed,1
